@@ -83,6 +83,11 @@ venv.bak/
 *.pickle
 data/
 datasets/
+EMNIST_data/
+**/EMNIST_data/
+*.idx3-ubyte
+*.idx1-ubyte
+gzip.zip
 
 # Model files
 models/
