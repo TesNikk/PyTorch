@@ -88,6 +88,11 @@ EMNIST_data/
 *.idx3-ubyte
 *.idx1-ubyte
 gzip.zip
+cifar_100/
+**/cifar_100/
+*.tar.gz
+*.tar
+*.zip
 
 # Model files
 models/
